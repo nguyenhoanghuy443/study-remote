@@ -1,0 +1,11 @@
+//ignore tap tin me.txt
+me.txt
+
+//ignore thu muc libs
+/libs
+
+//ignore cac file .xml
+*.xml
+
+//ignore cac file khong phai la file abc.txt
+!abc.txt
